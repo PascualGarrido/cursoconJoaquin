@@ -1,6 +1,5 @@
 ## This is a markdown file
 
-En este archivo hago pruebas para ver cómo funciona esto de Git a través de Github.
 
 # Se realizan modificaciones en el archivo que quedan registradas
 $$
@@ -9,4 +8,6 @@ $$
 
 He borrado una línea y he añadido este texto.
 Mas lineas.
+
+## Añadimos cosas nuevas
 
